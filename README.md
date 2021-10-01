@@ -1,2 +1,2 @@
 # local-manifest
-judyln ppui
+Update soon. Just wait then
