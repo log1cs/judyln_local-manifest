@@ -8,7 +8,7 @@
  <project path="hardware/lge" name="Emanuel000000/android_device_lge_hardware" remote="github" revision="R" />
  <project path="device/lge/judyln" name="kiam001/android_device_lge_judyln" remote="github" revision="Sakura" />
  <project path="vendor/lge" name="Emanuel000000/proprietary_vendor_lge" remote="github" revision="dotos" />
- <project path="device/lge/sdm845-common" name="Emanuel000000/android_device_lge_sdm845-common" remote="github" revision="DotOs" />
+ <project path="device/lge/sdm845-common" name="log1cs/android_device_lge_sdm845-common" remote="github" revision="DotOs" />
  <project path="kernel/lge/sdm845" name="Emanuel000000/android_kernel_lge_sdm845" remote="github" revision="dotos-v" />
  <project path="vendor/qcom/opensource/commonsys-intf/display" name="Emanuel000000/android_vendor_qcom_opensource_display-commonsys-intf" remote="github" revision="R" />
  <project path="hardware/qcom-caf/sdm845/media" name="Emanuel000000/hardware_qcom-caf_sdm845_media" remote="github" revision="R" />
