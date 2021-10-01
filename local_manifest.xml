@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+         <remote name="log1cs"
+                fetch="https://github.com" />
  <remove-project name="LineageOS/android_vendor_qcom_opensource_display-commonsys-intf" />
  <remove-project name="LineageOS/android_hardware_qcom_media" />
  <project path="device/lge/common" name="Emanuel000000/android_device_lge_common" remote="github" revision="R" />
