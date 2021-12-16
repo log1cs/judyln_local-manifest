@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
          <remote name="github"
-                fetch="https://github.com" />
+                fetch="https://github.com/" />
          <remote name="codeaurora"
-                fetch="https://source.codeaurora.org" />
+                fetch="https://source.codeaurora.org/" />
  <project path="device/lge/common" name="Emanuel000000/android_device_lge_common" remote="github" revision="S" />
  <project path="hardware/lge" name="Emanuel000000/android_device_lge_hardware" remote="github" revision="R" />
  <project path="device/lge/judyln" name="log1cs/android_device_lge_judyln" remote="github" revision="lighthouse" />
