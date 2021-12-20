@@ -15,7 +15,4 @@
  <project path="vendor/lge" name="Emanuel000000/proprietary_vendor_lge" remote="github" revision="S" />
  <project path="device/lge/sdm845-common" name="Emanuel000000/android_device_lge_sdm845-common" remote="github" revision="S" />
  <project path="kernel/lge/sdm845" name="log1cs/android_kernel_lge_sdm845" remote="github" revision="Anne" />
- <project path="vendor/qcom/opensource/commonsys-intf/display" name="quic/la/platform/vendor/qcom-opensource/display-commonsys-intf/" remote="codeaurora" revision="LA.UM.10.3.r1-00300-sdm845.0" />
- <project path="hardware/qcom-caf/sdm845/media" name="Emanuel000000/hardware_qcom-caf_sdm845_media" remote="github" revision="12" />
- <project path="hardware/qcom-caf/sdm845/display" name="jjpprrrr/hardware_qcom-caf_sdm845_display" remote="github" revision="caf-s" />
  </manifest>
