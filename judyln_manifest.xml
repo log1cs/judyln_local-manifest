@@ -4,8 +4,8 @@
                 fetch="https://github.com/" />
  <project path="device/lge/common" name="Emanuel000000/android_device_lge_common" remote="github" revision="S" />
  <project path="hardware/lge" name="Emanuel000000/android_device_lge_hardware" remote="github" revision="R" />
- <project path="device/lge/judyln" name="log1cs/device_lge_judyln" remote="github" revision="S" />
+ <project path="device/lge/judyln" name="log1cs/device_lge_judyln" remote="github" revision="Radiant" />
  <project path="vendor/lge" name="Emanuel000000/proprietary_vendor_lge" remote="github" revision="S" />
- <project path="device/lge/sdm845-common" name="log1cs/device_lge_sdm845-common" remote="github" revision="S" />
- <project path="kernel/lge/sdm845" name="log1cs/alice_lge_sdm845" remote="github" revision="Ann" />
+ <project path="device/lge/sdm845-common" name="https://github.com/EmanuelCN/android_device_lge_sdm845-common" remote="github" revision="twelve" />
+ <project path="kernel/lge/sdm845" name="EmanuelCN/android_kernel_lge_sdm845" remote="github" revision="twelve" />
  </manifest>
