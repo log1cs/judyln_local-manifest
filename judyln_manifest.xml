@@ -6,6 +6,7 @@
  <project path="hardware/lge" name="Emanuel000000/android_device_lge_hardware" remote="github" revision="R" />
  <project path="device/lge/judyln" name="log1cs/device_lge_judyln" remote="github" revision="Radiant" />
  <project path="vendor/lge" name="Emanuel000000/proprietary_vendor_lge" remote="github" revision="S" />
- <project path="device/lge/sdm845-common" name="https://github.com/EmanuelCN/android_device_lge_sdm845-common" remote="github" revision="twelve" />
+ <project path="device/lge/sdm845-common" name="EmanuelCN/android_device_lge_sdm845-common" remote="github" revision="twelve" />
  <project path="kernel/lge/sdm845" name="EmanuelCN/android_kernel_lge_sdm845" remote="github" revision="twelve" />
+ <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" />
  </manifest>
